@@ -245,9 +245,6 @@ Thumbs.db
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,python,intellij+all
 
-storage/data/normalised/**/*
-!storage/data/raw/**/*.{json,csv,txt}
-storage/model/**/*
-
-**/*.lock
-!poetry.lock
+# Rasa
+.rasa
+models/*
