@@ -1,4 +1,4 @@
-from typing import Dict, Text, Any, List, Union
+from typing import Dict, Text, Any, List
 
 from rasa_sdk import Tracker
 from rasa_sdk.executor import CollectingDispatcher
