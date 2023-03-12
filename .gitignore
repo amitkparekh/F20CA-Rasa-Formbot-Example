@@ -248,3 +248,4 @@ Thumbs.db
 # Rasa
 .rasa
 models/*
+results/*
